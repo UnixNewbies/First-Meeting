@@ -12,4 +12,18 @@ _ _ _
 ![Debian](https://www.soylibre.com/wp-content/uploads/powered-by-debian-logo.svg_.png)
 
 
-
+_ _ _
+##  Content
+* Debian
+   *  Select Live ISO <Firmware non-free>
+   *  Dual Boot <Efi Installation>
+   *  Grub2 or rEFInd
+   *  File System
+   *  Sudo
+   *  Command Line 
+   *  Bash
+   *  Package Manager and .DEB
+   *  Packages
+   *  Web Server LAMP 
+   *  SSH
+_ _ _
