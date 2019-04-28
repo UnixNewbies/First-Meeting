@@ -9,10 +9,6 @@ Location = Colima, Col. (México)
 ```
 _ _ _
 
-![Debian](https://www.soylibre.com/wp-content/uploads/powered-by-debian-logo.svg_.png)
-
-
-_ _ _
 ##  Content
 * Debian
    *  Select Live ISO <Firmware non-free>
@@ -27,3 +23,7 @@ _ _ _
    *  Web Server LAMP 
    *  SSH
 _ _ _
+
+
+![Debian](https://www.soylibre.com/wp-content/uploads/powered-by-debian-logo.svg_.png)
+
