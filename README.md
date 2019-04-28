@@ -5,7 +5,7 @@ Introduction to GNU / Linux with the Debian operating system, it is intended to 
 the configuration of the system, package manager, command line (basic), servers, and free
 technologies.
 
-Location = Colima, Col. (*México*)
+Location = Colima, Col. (México)
 ```
 _ _ _
 
