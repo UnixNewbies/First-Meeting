@@ -1,0 +1,6 @@
+1.-
+<Partition the disk, leaving the amount of GB that will designate the distribution "Unassigned"; from diskpart or disk manager.>
+2.-
+<Select Image ISO From; https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/9.9.0-live+nonfree/amd64/iso-hybrid/ >
+3.-
+<Create the bootable usb with the favorite software>
