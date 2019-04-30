@@ -50,6 +50,13 @@ Packages
 Install Apache2, MariaDB-client MariaDB-Server, PHP Modules
 
 Instructions:
+sudo apt-get install apache2
+sudo apt-get install mariadb-client mariadb-server
+sudo mysql_secure_installation
+  <...>
+sudo apt-get install php php-sql 
+sudo nano /var/www/html/info.php
+sudo apt-get install phpmyadmin
 
 13.-
 SSH Mastery
