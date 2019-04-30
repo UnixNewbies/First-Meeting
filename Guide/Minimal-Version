@@ -4,3 +4,23 @@
 <Select Image ISO From; https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/9.9.0-live+nonfree/amd64/iso-hybrid/ >
 3.-
 <Create the bootable usb with the favorite software>
+4.-
+Installation "one click to install"; only do 2 manual partitions {Swap 2G and Linux File System xG}
+5.-
+Install Grub2 on /dev/sd?
+6.-
+Review to Unix File System {cd, ls}
+7.-
+Set sudo with username and group wheel
+8.-
+Command Line {Bassic Commands}
+9.-
+Basic Bash Script {Prompt, execute commands}
+10.-
+Apt-Get Commands, Aptitude, Dpkg, Gdebi to DEBS packages
+11.-
+Packages 
+12.-
+Install Apache2, MariaDB-client MariaDB-Server, PHP Modules
+13.-
+SSH Mastery
