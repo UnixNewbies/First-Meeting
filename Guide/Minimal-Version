@@ -7,7 +7,7 @@
 4.-
 Installation "one click to install"; only do 2 manual partitions {Swap 2G and Linux File System xG}
 5.-
-Install Grub2 on /dev/sd?
+Install Grub2 on /dev/sd?  >> After install rEFInd
 6.-
 Review to Unix File System {cd, ls}
 7.-
