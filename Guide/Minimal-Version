@@ -1,26 +1,55 @@
 1.-
 <Partition the disk, leaving the amount of GB that will designate the distribution "Unassigned"; from diskpart or disk manager.>
+
 2.-
 <Select Image ISO From; https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/9.9.0-live+nonfree/amd64/iso-hybrid/ >
+
 3.-
 <Create the bootable usb with the favorite software>
+
 4.-
 Installation "one click to install"; only do 2 manual partitions {Swap 2G and Linux File System xG}
+
 5.-
 Install Grub2 on /dev/sd?  >> After install rEFInd
+
+Instructions:
+Download rEFInd package from: https://sourceforge.net/projects/refind/
+cd Downloads
+ls
+sudo dpkg -i *.deb
+
 6.-
 Review to Unix File System {cd, ls}
+
 7.-
-Set sudo with username and group wheel
+Set sudo with username and group wheel { /etc/sudoers }
+
+Instructions:
+sudo nano /etc/sudoers
+{see sudoers config file on this repository}
+Ctrl x + Ctrl o
+
 8.-
 Command Line {Bassic Commands}
+
+{See Command Line info on this repository}
+
 9.-
 Basic Bash Script {Prompt, execute commands}
+
+{See .bashrc config file on this repository}
+
 10.-
 Apt-Get Commands, Aptitude, Dpkg, Gdebi to DEBS packages
+
 11.-
 Packages 
+
 12.-
 Install Apache2, MariaDB-client MariaDB-Server, PHP Modules
+
+Instructions:
+
 13.-
 SSH Mastery
