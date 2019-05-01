@@ -65,4 +65,13 @@ sudo apt-get install phpmyadmin
 13.-
 SSH Mastery
 
-14.- Fish Shell
+14.- Fish Shell {Oh my fish framework}
+
+Instructions:
+Sudo apt-get install fish
+sudo apt-get install git
+fish
+sudo git clone https://www.github.com/oh-my-fish/oh-my-fish/
+cd oh-my-fish/
+bin/install --offline
+omf
