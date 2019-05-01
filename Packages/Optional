@@ -1,0 +1,38 @@
+#Text Editors
+
+sudo apt-get install emacs xemacs21 nano vim neovim geany bluefish codeblocks gedit pluma arduino netbeans eclipse bpython3
+git gitg git-cola elki wget curl ftp
+
+#Web
+
+sudo apt-get install lynx firefox chromium netsurf qupzilla filezilla clonezilla qbittorrent tor konqueror thunderbird
+wireshark amule midori
+
+#Servers
+
+sudo apt-get install apache2 nginx mariadb-client mariadb-server mysql-client mysql-server postgresql pgadmin3 php php-mysql 
+phpmyadmin jmeter ssh
+
+#Office
+
+sudo apt-get install libreoffice gnucash
+
+#Personal
+
+sudo apt-get install vlc gparted amarok clementine ark nautilus unzip rar clamav 
+
+#Graphics
+
+sudo apt-get install gimp inkscape krita blender scribus gwenview
+
+#Others
+
+Haroopad, Telegram, Etcher, Teamviewer, Mega, Atom, Dropbox, virtualbox
+
+#Term
+
+sudo apt-get install cmatrix cowsay fortune python-pip htop neofetch screenfetch tmux fish zsh aptitude
+
+#H4ck
+
+sudo apt-get install wireshark hydra-gtk nmap zenmap torbrowser-launcher
