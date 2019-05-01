@@ -22,6 +22,7 @@ _ _ _
    *  Packages
    *  Web Server LAMP 
    *  SSH
+   *  Fish
 _ _ _
 
 
