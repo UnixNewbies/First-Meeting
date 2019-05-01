@@ -5,7 +5,7 @@ Introduction to GNU / Linux with the Debian operating system, it is intended to 
 the configuration of the system, package manager, command line (basic), servers, and free
 technologies.
 
-Location = ???
+Date: 01/05/2019
 ```
 _ _ _
 
