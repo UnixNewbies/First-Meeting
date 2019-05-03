@@ -11,7 +11,7 @@
 Installation "one click to install"; only do 2 manual partitions {Swap 2G and Linux File System xG}
 
 5.-
-Install Grub2 on /dev/sd?  >> After install rEFInd
+Install Grub2 on /dev/sda  >> After install rEFInd
 
 Instructions:
 Download rEFInd package from: https://sourceforge.net/projects/refind/
